@@ -1,4 +1,4 @@
-# CF-Workers-TGbot
+# CF-Workers-TGbo
 
 ## 🛠️ 部署到 Cloudflare Workers
 1. 在 Cloudflare Worker 控制台中创建一个新的 Worker。
@@ -23,4 +23,5 @@
 | TGTOKEN | `6894123456:XXXXXXXXXX0qExVsBPUhHDAbXXXXXqWXgBA` | TG机器人token | 
 
 # 🙏 致谢
+
 GPT
